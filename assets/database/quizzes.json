@@ -7,8 +7,17 @@
           {
             "title": "Está curtindo o Flutter?", 
             "answers": [
-              {"title": "Estou curtindo"},
+              {"title": "Estou curtindo", "isRight": true},
               {"title": "Estou adorando"},
+              {"title": "Estou amando"},
+              {"title": "Estou odiando"}
+        ]
+       },
+          {
+            "title": "Está curtindo o Flutter?", 
+            "answers": [
+              {"title": "Estou curtindo"},
+              {"title": "Estou adorando", "isRight": true},
               {"title": "Estou amando"},
               {"title": "Estou odiando"}
         ]
